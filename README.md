@@ -24,7 +24,3 @@ A secure password generator plugin for WordPress.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This plugin is licensed under the [MIT License](LICENSE).
